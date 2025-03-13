@@ -1,8 +1,6 @@
  <h1 align="center">MovieMagnet - A Movie Finding App with Extensive Search</h1>
 
-   
-
-## <a name="introduction"> Introduction</a>
+ 
 
 Built with Expo, TypeScript, and Tailwind CSS, this app fetches movies and creates a popularity algorithm using Appwrite. It provides users with a seamless browsing experience, ranking movies based on various engagement metrics. The app leverages modern UI/UX principles for a responsive and visually appealing interface, ensuring real-world scalability and performance.
 
@@ -14,7 +12,13 @@ Built with Expo, TypeScript, and Tailwind CSS, this app fetches movies and creat
 - [Download for android](https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk)
 
 ### ios
-- [Download for iOS ](https://expo.dev/artifacts/eas/sU3oHa8Kdmqg1GHbt8uqQF.tar.gz)
+- [Download for iOS simulator ](https://expo.dev/artifacts/eas/sU3oHa8Kdmqg1GHbt8uqQF.tar.gz)
+
+
+https://i.ibb.co/XkkM4bN0/moviemagnet.jpg
+##  Preview
+- [Preview](https://i.ibb.co/XkkM4bN0/moviemagnet.jpg)
+
   
 
 
