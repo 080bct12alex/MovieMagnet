@@ -15,7 +15,7 @@ Built with Expo, TypeScript, and Tailwind CSS, this app fetches movies and creat
 - [Download for iOS simulator ](https://expo.dev/artifacts/eas/sU3oHa8Kdmqg1GHbt8uqQF.tar.gz)
 
 
-https://i.ibb.co/XkkM4bN0/moviemagnet.jpg
+
 ##  Preview
 - [Preview](https://i.ibb.co/XkkM4bN0/moviemagnet.jpg)
 
